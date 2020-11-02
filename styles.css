@@ -1,0 +1,44 @@
+#body {
+    background-image: url(HD-Technology-Wallpaper-3.jpg);
+}
+
+#header{
+  color: white;
+}
+
+a[href] {
+    background-color: white;
+}
+
+a[href*="education"] {
+    background-color: white;
+}
+
+a[href*="hobby"] {
+    background-color: white;
+}
+
+a[href*="skills technology and language"] {
+    background-color: white;
+}
+
+a[href*="contact-me"] {
+    background-color: white;
+}
+
+body {
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.2em; /*100%=16px*/
+    text-align: justify;
+}
+
+h1 {
+    font-family: "Give You Glory", cursive;
+    font-size: 2rem;
+    width: 99%;
+    margin: 0 auto;
+}
+
+p {
+    font-family: "Nunito", sans-serif;
+}
